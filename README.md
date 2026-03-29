@@ -40,7 +40,7 @@ conda activate edd-analysis
 
 ## Data
 
-**Aggregated results** (~500 MB) available separately on Zenodo: [DOI will be added]
+**Aggregated results** (~500 MB) available separately on Zenodo: https://doi.org/10.5281/zenodo.19322211
 
 **Raw climate data** (not included - cite sources):
 - ERA5: Copernicus Climate Data Store
